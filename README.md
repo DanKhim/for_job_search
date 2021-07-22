@@ -8,4 +8,3 @@
 |[determining_a_prospective_tariff_for_a_telecom_company](determining_a_prospective_tariff_for_a_telecom_company.ipynb)|Определение перспективного тарифа для телеком компании.|*pandas, numpy, matplotlib, scipy, math*|
 |[churn](churn.ipynb)|Прогнозирование оттока клиентов из банка.|*pandas, numpy, matplotlib, sklearn*|
 |[taxi](taxi.ipynb)|Прогнозирование количества заказов такси.|*pandas, numpy, matplotlib, sklearn, time, catboost, lightgbm*|
-|[research_of_ads_for_the_sale_of_apartments](research_of_ads_for_the_sale_of_apartments.ipynb)|Исследование объявлений о продаже квартир.|*pandas, matplotlib*|
